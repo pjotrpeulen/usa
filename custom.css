@@ -1,3 +1,10 @@
 h1 {
    
 }
+
+@media (max-width: 1100px) {
+    #oxfordms {
+       margin-top: 100px;
+       margin-bottom: 50px !important;
+    }
+}
